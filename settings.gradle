@@ -3,3 +3,5 @@ include ':ExampleSteps:ConcatValues'
 include ':ExampleSteps:IPGeolocation'
 include ':ExampleSteps:DemoAggregateStep'
 include ':SDKTestFramework'
+include 'FibonacciSequence'
+
